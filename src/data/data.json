@@ -21,7 +21,7 @@
       "id": "1",
       "img": "https://i.postimg.cc/T3pgXjM1/sample2.png",
       "link": "https://github.com/ronak232/Ecommerce-app",
-      "desc": "E-comm Website",
+      "desc": "E-commerce Website",
       "description": "A full-featured e-commerce platform with a modern UI, product catalog, shopping cart, and checkout functionality.",
       "tags": ["React", "Next.js", "Tailwind CSS", "MongoDB"]
     },
@@ -67,8 +67,25 @@
         "AI"
       ]
     },
-     {
+    {
       "id": "5",
+      "img": "https://private-user-images.githubusercontent.com/91742972/463707694-380400ae-d2a5-4877-a483-729951033ebd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMyNzQyMjUsIm5iZiI6MTc1MzI3MzkyNSwicGF0aCI6Ii85MTc0Mjk3Mi80NjM3MDc2OTQtMzgwNDAwYWUtZDJhNS00ODc3LWE0ODMtNzI5OTUxMDMzZWJkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzIzVDEyMzIwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ0NTE2ZDIzOTUzNTBjZTgxZWZiMzAyMjZkMDVhMDFmMDExZDE5NzNhZWRkMTY2ZjZlYTc3ODc5ZjM4YWUxNjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.w6mlvpCI6OCia3NTmUsxbUdPt0GAJYkcZyiV_TJBW8Y",
+      "link": "https://github.com/ronak232/Seo-Agent-Pro",
+      "desc": "SEO Tool Online",
+      "description": "Hidden insight of your blog or article content by comparing it with competitors",
+      "tags": [
+        "React",
+        "JavaScript",
+        "CSS",
+        "Node.js",
+        "AI Agent",
+        "Gemini API",
+        "LLM",
+        "Tavily"
+      ]
+    },
+     {
+      "id": "6",
       "img": "",
       "link": "https://github.com/ronak232/machine-coding-practice",
       "desc": "Repository is dedicated to practicing and improving machine coding skills.",
@@ -76,12 +93,7 @@
       "tags": [
         "React",
         "JavaScript",
-        "CSS",
-        "Node.js",
-        "MongoDB",
-        "Gemini API",
-        "LLM",
-        "AI"
+        "Machine Coding"
       ]
     }
   ]
