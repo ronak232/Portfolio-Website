@@ -72,7 +72,8 @@
         "AI Agent",
         "Gemini API",
         "LLM",
-        "Tavily"
+        "Tavily API",
+        "Langgraph"
       ]
     },
     {
@@ -83,17 +84,13 @@
       "description": "A full-featured e-commerce platform with a modern UI, product catalog, shopping cart, and checkout functionality.",
       "tags": ["React", "Next.js", "Tailwind CSS", "MongoDB"]
     },
-     {
+    {
       "id": "6",
       "img": "https://media.licdn.com/dms/image/v2/D4E12AQGsDp9xrUHXqg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1678346936133?e=2147483647&v=beta&t=BTPG_p5S4l2Xph4noc1GcH-vNSwcgO21YK2mhgzo1bQ",
       "link": "https://github.com/ronak232/machine-coding-practice",
       "desc": "Repository is dedicated to practicing and improving machine coding skills.",
       "description": "A collection of coding problems and solutions for practicing machine coding and interview preparation.",
-      "tags": [
-        "React",
-        "JavaScript",
-        "Machine Coding"
-      ]
+      "tags": ["React", "JavaScript", "Machine Coding"]
     }
   ]
 }
