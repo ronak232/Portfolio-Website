@@ -1,18 +1,29 @@
 import { motion } from "framer-motion";
-import { FaReact, FaNodeJs, FaFigma, FaGithub } from "react-icons/fa";
+import { FaReact, FaNodeJs, FaFigma, FaGithub, FaCss3 } from "react-icons/fa";
 import { FaJs } from "react-icons/fa6";
-import { SiTailwindcss, SiNextdotjs, SiMongodb } from "react-icons/si";
+import {
+  SiTailwindcss,
+  SiNextdotjs,
+  SiMongodb,
+  SiJira,
+  SiChakraui,
+} from "react-icons/si";
+import { VscAzure } from "react-icons/vsc";
 
 const About = () => {
   const techStack = [
     { icon: <FaReact size={40} />, name: "React" },
-    { icon: <SiNextdotjs size={40} />, name: "Next.js" },
     { icon: <SiTailwindcss size={40} />, name: "Tailwind CSS" },
-    { icon: <FaNodeJs size={40} />, name: "Node.js" },
-    { icon: <SiMongodb size={40} />, name: "MongoDB" },
-    { icon: <FaFigma size={40} />, name: "Figma" },
     { icon: <FaJs size={40} />, name: "JavaScript" },
+    { icon: <FaCss3 size={40} />, name: "CSS" },
+    { icon: <FaFigma size={40} />, name: "Figma" },
+    { icon: <FaNodeJs size={40} />, name: "Node.js" },
+    { icon: <SiChakraui size={40} />, name: "Chakra UI" },
+    { icon: <SiMongodb size={40} />, name: "MongoDB" },
+    { icon: <SiNextdotjs size={40} />, name: "Next.js" },
     { icon: <FaGithub size={40} />, name: "GitHub" },
+    { icon: <VscAzure size={40} />, name: "Azure" },
+    { icon: <SiJira size={40} />, name: "Jira" },
   ];
 
   return (

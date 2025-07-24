@@ -73,7 +73,8 @@
         "Gemini API",
         "LLM",
         "Tavily API",
-        "Langgraph"
+        "Langgraph",
+        "Chart.JS"
       ]
     },
     {
